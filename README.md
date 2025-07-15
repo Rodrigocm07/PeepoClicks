@@ -61,12 +61,11 @@ Clicar o máximo que puder para acumular pontos, comprar melhorias e desbloquear
 
 4. Adicione o driver JDBC (MySQL Connector) ao projeto.
 
-5. Compile e execute a classe Main.java.
+5. Compile e execute a classe Menu.java.
 
 ---
 
 ## 🙌 Créditos
 
 Desenvolvido por Rodrigo C. M.  
-Com inspiração no clássico Cookie Clicker e apoio da comunidade de desenvolvedores.  
-Design, lógica e persistência feitos em Java puro.
+Com inspiração no clássico Cookie Clicker e apoio de Luís Guilherme de S Lopes
